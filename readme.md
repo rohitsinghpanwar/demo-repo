@@ -1,6 +1,6 @@
 # GitHub Webhook Demo
 
-This project demonstrates capturing GitHub events (Push, Pull Request, Merge) via webhooks, storing them in MongoDB, and displaying them in a clean UI using React. The backend is built using Flask.
+This project demonstrates capturing GitHub events (Push, Pull Request, Merge) via webhooks, storing them in MongoDB, and displaying them in a clean UI using React. The backend is built using Flask. 
 
 ---
 
