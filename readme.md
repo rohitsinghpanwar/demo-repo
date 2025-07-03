@@ -6,7 +6,7 @@ This project demonstrates capturing GitHub events (Push, Pull Request, Merge) vi
 
 ## 🔧 Tech Stack
 
-- **Frontend:** React (Vite)
+- **Frontend:** React (Vite) 
 - **Backend:** Flask (Python)
 - **Database:** MongoDB (Atlas or local)
 - **Tunneling:** ngrok (for webhook testing)
